@@ -83,7 +83,7 @@ Actualmente estoy finalizando un bootcamp de desarrollo web y expandiendo mis ha
 
 ## Contacto
 
-GitHub: https://github.com/TUUSUARIO  
-LinkedIn: agregar enlace  
-Email: agregar correo
+GitHub: https://github.com/carlosotoia-coder
+LinkedIn: https://www.linkedin.com/in/carlossotocont/ 
+Email: carlosotoia@gmail.com
 
